@@ -13,6 +13,9 @@ Status: [ ] to read · [~] skimmed · [x] read with notes
 - [ ] Wen et al. 2024, Language Models Learn to Mislead Humans via RLHF
 - [ ] Gao et al. 2022, Scaling Laws for Reward Model Overoptimization
 - [ ] Perez et al. 2022, Discovering Language Model Behaviors with Model-Written Evaluations
+- [ ] Skalse et al. 2022, Defining and Characterizing Reward Hacking (source of the reward hacking definition)
+- [ ] Amodei et al. 2016, Concrete Problems in AI Safety (classic informal definition)
+- [ ] Evans et al. 2021, Truthful AI (honest vs. truthful distinction)
 
 ## Supervision / multi-agent
 - [ ] Irving et al. 2018, AI Safety via Debate

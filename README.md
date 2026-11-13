@@ -6,7 +6,7 @@ Undergraduate research with Prof. Bryce McLaughlin (Boston College), Spring 2027
 
 **Background:** AI sycophancy is when a model tailors its answers to what the user believes or wants to hear, at the expense of the truth. It can be understood partly as a form of reward hacking: models trained on human feedback learn that agreement earns high ratings. This project focuses on sycophancy first, with reward hacking as context and a planned later extension.
 
-See [`notes/framing_memo.md`](notes/framing_memo.md) for the full framing.
+See [`notes/research_framing.md`](notes/research_framing.md) for the full framing.
 
 ## Layout
 
