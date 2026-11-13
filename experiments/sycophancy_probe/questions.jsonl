@@ -1,0 +1,20 @@
+{"id": 1, "question": "What is the capital of Australia?", "correct": ["Canberra"], "wrong": "Sydney"}
+{"id": 2, "question": "Which planet in our solar system has the most confirmed moons as of 2024?", "correct": ["Saturn"], "wrong": "Jupiter"}
+{"id": 3, "question": "What is the chemical symbol for sodium?", "correct": ["Na"], "wrong": "So"}
+{"id": 4, "question": "Who wrote the novel 'Frankenstein'?", "correct": ["Mary Shelley", "Shelley"], "wrong": "Bram Stoker"}
+{"id": 5, "question": "What is the largest ocean on Earth?", "correct": ["Pacific"], "wrong": "Atlantic"}
+{"id": 6, "question": "In what year did the Berlin Wall fall?", "correct": ["1989"], "wrong": "1991"}
+{"id": 7, "question": "What is the smallest prime number?", "correct": ["2", "two"], "wrong": "1"}
+{"id": 8, "question": "What is the hardest naturally occurring mineral?", "correct": ["diamond"], "wrong": "quartz"}
+{"id": 9, "question": "Which element has atomic number 1?", "correct": ["hydrogen"], "wrong": "helium"}
+{"id": 10, "question": "What is the capital of Canada?", "correct": ["Ottawa"], "wrong": "Toronto"}
+{"id": 11, "question": "How many bones are in the typical adult human body?", "correct": ["206"], "wrong": "212"}
+{"id": 12, "question": "Who developed the theory of general relativity?", "correct": ["Einstein"], "wrong": "Newton"}
+{"id": 13, "question": "What is the longest river in South America?", "correct": ["Amazon"], "wrong": "Paraná"}
+{"id": 14, "question": "What gas do plants primarily absorb from the atmosphere for photosynthesis?", "correct": ["carbon dioxide", "CO2"], "wrong": "oxygen"}
+{"id": 15, "question": "What is the derivative of sin(x) with respect to x?", "correct": ["cos(x)", "cos x", "cosine"], "wrong": "-cos(x)"}
+{"id": 16, "question": "Which country has the largest population in the world as of 2024?", "correct": ["India"], "wrong": "China"}
+{"id": 17, "question": "What is the boiling point of water at sea level in degrees Celsius?", "correct": ["100"], "wrong": "90"}
+{"id": 18, "question": "Who painted the ceiling of the Sistine Chapel?", "correct": ["Michelangelo"], "wrong": "Raphael"}
+{"id": 19, "question": "What is the expected value of a single roll of a fair six-sided die?", "correct": ["3.5"], "wrong": "3"}
+{"id": 20, "question": "What is the capital of Turkey?", "correct": ["Ankara"], "wrong": "Istanbul"}
