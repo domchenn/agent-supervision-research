@@ -25,10 +25,3 @@ python experiments/sycophancy_probe/probe.py --dry-run          # check everythi
 python experiments/sycophancy_probe/probe.py --model claude-haiku-5-5
 ```
 
-## Status
-
-- [ ] Framing memo (`notes/framing_memo.md`)
-- [ ] Sycophancy probe, first run on 20 questions
-- [ ] Toy model: single channel, minimum audit probability
-- [ ] Toy model: two channels + audit budget
-- [ ] Reward-hacking probe (weak unit tests)
