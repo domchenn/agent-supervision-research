@@ -1,4 +1,4 @@
-# Framing memo
+# Research Framing
 
 ## 1. What is sycophancy?
 
